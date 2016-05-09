@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeChatTest</string>
+
+    <string name="share_text">Share Text</string>
+    <string name="share_img">Share Image</string>
+    <string name="share_music">Share Music</string>
+    <string name="share_video">Share Video</string>
+    <string name="share_webpage">Share Web Page</string>
+</resources>
